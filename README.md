@@ -8,11 +8,8 @@
 
 <h2>Features</h2>
 <ul>
-  <li><b>3D World Rendering</b>: Generates a basic 3D environment with camera controls.</li>
+  <li><b>3D World Rendering</b>: Generates a basic 3D environment.</li>
   <li><b>Object Mapping</b>: Load, render, and manipulate 3D objects within the scene.</li>
-  <li><b>Lighting and Shading</b>: Implements basic lighting models to enhance visual realism.</li>
-  <li><b>Keyboard Interaction</b>: Use keyboard inputs to navigate or modify the scene.</li>
-  <li><b>Scalable Design</b>: Extend the project to add more 3D objects and features.</li>
 </ul>
 
 ---
@@ -64,21 +61,3 @@ cd objects_adder
 
 ---
 
-<h2>Controls</h2>
-<ul>
-  <li><b>W/A/S/D:</b> Move camera</li>
-  <li><b>Arrow Keys:</b> Rotate view</li>
-  <li><b>Space:</b> Add/Remove objects</li>
-</ul>
-
----
-
----
-
-<h2>Acknowledgments</h2>
-<ul>
-  <li>OpenGL tutorials and documentation for guidance.</li>
-  <li>GLFW and GLEW communities for maintaining essential tools for OpenGL development.</li>
-</ul>
-
-<p align="center">Feel free to explore, enhance, or contribute to the project!</p>
